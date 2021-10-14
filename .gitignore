@@ -1,0 +1,7 @@
+*.sln
+.vs/
+NTLM_Client/bin/
+NTLM_Client/obj/
+*.csproj
+FamilyArchive/FamilyArchive.csproj
+FamilyArchive/FamilyArchive.csproj.user
